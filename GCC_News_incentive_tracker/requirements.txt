@@ -1,0 +1,10 @@
+feedparser
+requests
+trafilatura
+beautifulsoup4
+pandas
+sqlite-utils
+tqdm
+lxml
+pdfplumber
+openpyxl
